@@ -1,0 +1,18 @@
+# 编译生成的二进制文件
+/bin/
+/build/
+/*.o
+/*.exe
+/*.out
+
+# CMake生成的文件
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# 日志文件
+*.log
+
+# 其他临时文件
+*.tmp
