@@ -16,3 +16,6 @@ Makefile
 
 # 其他临时文件
 *.tmp
+
+# vscode文件
+.vscode/
